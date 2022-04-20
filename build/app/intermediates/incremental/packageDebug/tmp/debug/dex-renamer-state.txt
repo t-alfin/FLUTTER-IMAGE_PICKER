@@ -1,0 +1,4 @@
+#Tue Apr 19 15:23:33 WIB 2022
+base.0=/Users/alfintaufiq/Documents/work-app/flutter/image_picker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
